@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UITextField *resultWindow;
+- (IBAction)add:(id)sender;
+- (IBAction)equal:(id)sender;
 
 
 @end
