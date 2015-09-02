@@ -12,7 +12,7 @@
 @property (weak, nonatomic) IBOutlet UITextField *resultWindow;
 - (IBAction)add:(id)sender;
 - (IBAction)equal:(id)sender;
-
+///uhuj
 
 @end
 
